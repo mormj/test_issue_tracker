@@ -1,11 +1,19 @@
 name: Bug Report
 description: File a bug report
-labels: ["bug", "triage"]
+labels: ["bug"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this bug report!  
+        Before you open an issue we suggest checking the following:
+        [The wiki](https://wiki.gnuradio.org/index.php/Main_Page)
+        [The GNU Radio Blocks documentation](https://wiki.gnuradio.org/index.php/Category:Block_Docs)
+        [The User manual](https://wiki.gnuradio.org/index.php/Usage_Manual)
+        [GNU Radio community](https://wiki.gnuradio.org/index.php/Chat)
+        or on [the mailing list](https://wiki.gnuradio.org/index.php/MailingLists)]
+
+        Please reserve the issue tracker for presumed bugs in the GR codebase - if this is a question about usage or an installation issue, please seek help on the mailing list first
   - type: input
     id: contact
     attributes:
