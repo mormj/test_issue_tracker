@@ -12,6 +12,7 @@ body:
         [The User manual](https://wiki.gnuradio.org/index.php/Usage_Manual)
         [GNU Radio community](https://wiki.gnuradio.org/index.php/Chat)
         [the mailing list](https://wiki.gnuradio.org/index.php/MailingLists)
+        
         **Please reserve the issue tracker for presumed bugs in the GR codebase - if this is a question about usage or an installation issue, please seek help on the [the mailing list](https://wiki.gnuradio.org/index.php/MailingLists) first**
   # - type: textarea
   #   id: what-happened
