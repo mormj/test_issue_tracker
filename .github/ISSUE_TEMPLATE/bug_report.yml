@@ -7,12 +7,6 @@ body:
     attributes:
       value: |
         Here is where you can create a report to help us improve GNU Radio.  Please reserve the GR issue tracker for actual discovered bugs with the codebase, not user issue
-        Before you open an issue we suggest checking the following:
-        [The wiki](https://wiki.gnuradio.org/index.php/Main_Page)
-        [The GNU Radio Blocks documentation](https://wiki.gnuradio.org/index.php/Category:Block_Docs)
-        [The User manual](https://wiki.gnuradio.org/index.php/Usage_Manual)
-        [GNU Radio community](https://wiki.gnuradio.org/index.php/Chat)
-        [the mailing list](https://wiki.gnuradio.org/index.php/MailingLists)]
   - type: textarea
     id: what-happened
     attributes:
