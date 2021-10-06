@@ -44,7 +44,7 @@ body:
         - 3.7 (maint-3.7)
     validations:
       required: true
-  - type: textarea
+  - type: input
     id: specific-version
     attributes:
       label: Specific Version
